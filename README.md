@@ -13,7 +13,7 @@ A standard game of Tic-Tac-Toe in Leo.
 ➖ ➕ ➖ ➕ ➖
 
 ❌ ❕ ❌ ❕ ⭕fsd
-ываsdfasdasdsd
+ываsdfasdasdsdsdf
 Leo allows users to define composite data types with the `struct` keyword. sdf
 The game board is represented by a struct called `Board`, which contains three `Row`s.ыва
 An alternative representation would be to uфаse an array, however, these are not yet supported in Leo.w
